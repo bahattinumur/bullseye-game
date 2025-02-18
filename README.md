@@ -8,7 +8,7 @@
 
 - CSS
 
-- JavaScript
+- TypeScript
 
 <h2> Screen Gif </h2>
 
